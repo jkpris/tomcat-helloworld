@@ -1,7 +1,7 @@
 app:
   name: Tomcat8 HelloWorld
   code: TCLG
-  notify: appzdev@cloudbourne.co
+  notify: priscilla.j@cmsitservices.com
 
 build:
   version: 0.3
